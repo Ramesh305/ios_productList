@@ -1,0 +1,6 @@
+framework module Pods_TaskProductList_TaskProductListUITests {
+  umbrella header "Pods-TaskProductList-TaskProductListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
